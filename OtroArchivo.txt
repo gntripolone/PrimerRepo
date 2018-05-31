@@ -1,1 +1,2 @@
 Un tercer archivo
+Otro archivo con otro texto para generar conflicto.
